@@ -26,5 +26,7 @@ You have been asked to create a program that organizes and updates medical recor
 
 In this project, you will use your new knowledge of Python dictionaries to create a database of medical records for patients.
 
-
+Python Classes: Medical Insurance Project
+You have been asked to develop a system that makes it easier to organize patient data. You will create a class that does the following:
+Takes in patient parameters regarding their personal information.Contains methods that allow users to update their information.Gives patients insight into their potential medical fees.
 
